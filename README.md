@@ -57,7 +57,7 @@ The datasets were cleaned, transformed, and combined using Power Query before be
 
 ## Dashboard 1 – Vehicle Registration Overview
 
-![Dashboard 1](screenshots/dashboard1-overview.png)
+![Dashboard 1](screenshot/dashboard1-overview.png)
 
 Features:
 
@@ -71,7 +71,7 @@ Features:
 
 ## Dashboard 2 – Fuel Distribution & Market Insights
 
-![Dashboard 2](screenshots/dashboard2-fuel-analysis.png)
+![Dashboard 2](screenshot/dashboard2-fuel-analysis.png)
 
 Features:
 
@@ -115,4 +115,8 @@ Features:
 - Integrate additional datasets such as population, income level, and fuel prices.
 - Publish the dashboard using Power BI Service for online access.
 
+---
 
+## Project Information
+
+This dashboard was developed as part of a university group project.
