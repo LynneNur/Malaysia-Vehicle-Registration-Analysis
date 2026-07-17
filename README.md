@@ -1,6 +1,6 @@
 # 🇲🇾 Malaysia Vehicle Registration Analysis Dashboard
 
-## 📌 Overview
+## Overview
 
 An interactive Power BI dashboard developed to analyze vehicle registration trends in Malaysia using official government open data from Data.gov.my.
 
@@ -8,7 +8,7 @@ The dashboard explores registration patterns by state, vehicle type, manufacture
 
 ---
 
-## ⭐ Project Highlights
+## Project Highlights
 
 - Developed two interactive Power BI dashboards.
 - Combined and transformed multiple government datasets using Power Query.
@@ -18,7 +18,7 @@ The dashboard explores registration patterns by state, vehicle type, manufacture
 
 ---
 
-## 🎯 Objectives
+## Objectives
 
 - Analyze vehicle registration patterns across different Malaysian states.
 - Compare vehicle registrations by manufacturer and vehicle type.
@@ -28,7 +28,7 @@ The dashboard explores registration patterns by state, vehicle type, manufacture
 
 ---
 
-## 🛠️ Tools & Technologies
+## Tools & Technologies
 
 - Microsoft Power BI
 - Power Query
@@ -38,7 +38,7 @@ The dashboard explores registration patterns by state, vehicle type, manufacture
 
 ---
 
-## 📂 Dataset
+## Dataset
 
 Source:
 **Data.gov.my – Malaysia Open Government Data**
@@ -53,7 +53,7 @@ The datasets were cleaned, transformed, and combined using Power Query before be
 
 ---
 
-# 📊 Dashboard Preview
+# Dashboard Preview
 
 ## Dashboard 1 – Vehicle Registration Overview
 
@@ -83,7 +83,7 @@ Features:
 
 ---
 
-# 💡 Key Insights
+# Key Insights
 
 - Kuala Lumpur recorded the highest number of vehicle registrations.
 - Motorcycles were the most frequently registered vehicle type.
@@ -94,7 +94,7 @@ Features:
 
 ---
 
-# 📈 Skills Demonstrated
+# Skills Demonstrated
 
 - Interactive Dashboard Design
 - Business Intelligence
@@ -108,7 +108,7 @@ Features:
 
 ---
 
-# 🚀 Future Improvements
+# Future Improvements
 
 - Include predictive analytics for future vehicle registration forecasting.
 - Develop machine learning models to predict registration trends.
