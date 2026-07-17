@@ -1,5 +1,12 @@
-# Malaysia-Vehicle-Registration-Analysis
-An interactive Power BI dashboard analyzing vehicle registration trends in Malaysia using official government open data from Data.gov.my. The project explores vehicle types, fuel usage, manufacturer performance, regional distribution, and historical registration trends to provide insights into consumer behavior and transportation patterns.
+# 🇲🇾 Malaysia Vehicle Registration Analysis Dashboard
+
+## 📌 Overview
+
+An interactive Power BI dashboard developed to analyze vehicle registration trends in Malaysia using official government open data from Data.gov.my.
+
+The dashboard explores registration patterns by state, vehicle type, manufacturer, fuel type, and consumer preferences. It also analyzes historical trends in electric and hybrid vehicle adoption to provide meaningful insights into Malaysia's evolving automotive market.
+
+---
 
 ## ⭐ Project Highlights
 
@@ -8,14 +15,6 @@ An interactive Power BI dashboard analyzing vehicle registration trends in Malay
 - Designed KPI cards and interactive filters for data exploration.
 - Visualized geographic, temporal, and categorical trends.
 - Applied data storytelling techniques to communicate actionable insights.
-
-  # 🇲🇾 Malaysia Vehicle Registration Analysis Dashboard
-
-## 📌 Overview
-
-An interactive Power BI dashboard developed to analyze vehicle registration trends in Malaysia using official government open data from Data.gov.my.
-
-The dashboard explores registration patterns by state, vehicle type, manufacturer, fuel type, and consumer preferences. It also analyzes historical trends in electric and hybrid vehicle adoption to provide meaningful insights into Malaysia's evolving automotive market.
 
 ---
 
